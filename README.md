@@ -102,5 +102,5 @@ there is a line they will simply go get milk or water.
 
 ## Part 4: Storyboard
 This storyboard follows `Patient Peter` across his journey to get a drink from the machine!
-<br></br>
+<br>
 ![image](https://user-images.githubusercontent.com/114443280/192400967-a0e91801-92da-482e-abb4-04ff7318bf50.png)
