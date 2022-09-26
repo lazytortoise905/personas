@@ -11,7 +11,7 @@ I prepared some questions that I could use to interview random users (with their
   <li>Do you always get the same drink?</li>
 </ol>
 
-<br></br>
+<br>
 Sketch:
 ![image](https://user-images.githubusercontent.com/114443280/192397261-0a125d06-8a6c-4cfc-959b-1d489699c300.png)
 
@@ -52,25 +52,25 @@ the `drain` which keeps the immediate surrounding surface cleaner than if spills
 <ol>
   <li>
     Do you like this interface?
-    <br></br>
+    <br>
     The first student I talked to expressed mostly distaste for the interface: "It is annoying to navigate and can be really laggy," he said. 
     The second student expressed her distaste with the availability of the drinks - denoted by greyed out circles on the screen: 
     "Most of the drinks are usually not full," she said. The third student expressed that he did not really have any opinion on it.
   </li>
   <li>
     Would you change, add, or remove anything from this interface? You can say no if you cannot think of anything. 
-    <br></br>
+    <br>
     The first student noted that he would prefer a different organizational structure as the circles did not make much sense to him and the 
     next two did not have any significant comments.
   </li>
   <li>
     What do you, if anything, if there is a line at the machine?
-    <br></br>
+    <br>
     Two of the students shared that they would revert to another alternative, such as the water or milk.
   </li>
   <li>
     Do you always get the same drink?
-    <br></br>
+    <br>
     Every student shared that they usually select between 1-2 sodas or water.
   </li>
 </ol>
@@ -90,17 +90,17 @@ dealing with the same interface, they both deal with the same problems:
 Patient Peter is a complacent user, someone who waits in a line for an inefficient machine when others would not. This persona represents some of
 the users I interviewed who expressed a "this is fine" attitude towards this interface. The machine works, sometimes; but it works well enough to
 make users like patient peter accept the reality of the situation.
-<br></br>
+<br>
 ![image](https://user-images.githubusercontent.com/114443280/192399568-c0a9a201-da30-4c58-b134-95a81d0563d5.png)
 
 ### Impatient Iman
 Impatient Iman is a non-complacent user, someone who will simply find alternative options then waster her time waiting in line for a machine that,
 albeit does contain more options, is slow and annoying to use. This persona represents some of the users I interviewed who expressed that when
 there is a line they will simply go get milk or water.
-<br></br>
+<br>
 ![image](https://user-images.githubusercontent.com/114443280/192397142-eba2163f-7084-4de3-9d91-d03cb8d38fd8.png)
 
 ## Part 4: Storyboard
 This storyboard follows `Patient Peter` across his journey to get a drink from the machine!
 <br></br>
-![image](https://user-images.githubusercontent.com/114443280/192400475-9368d46a-f482-4235-affa-11918acaf573.png)
+![image](https://user-images.githubusercontent.com/114443280/192400967-a0e91801-92da-482e-abb4-04ff7318bf50.png)
